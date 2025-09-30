@@ -1,3 +1,5 @@
 langchain==0.3.27
 langchain-community==0.3.30
 langchain-openai==0.3.33
+
+google-adk==1.15.1
